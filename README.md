@@ -80,7 +80,7 @@ Device usage (Mobile, Laptop, Tablet ~33% each)
 City-wise performance (Bangalore, Delhi, Hyderabad, Mumbai)
 Age group analysis (Young, Adult, Old)
 
-📈 Results & Insights
+### **📈 Results & Insights**
 
 Majority of transactions are successful (80% success rate)
 Transaction distribution is consistent across months
