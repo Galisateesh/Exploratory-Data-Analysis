@@ -1,3 +1,5 @@
+#### **Linkedin Profile**
+- <a href="https://www.linkedin.com/in/galisateesh/">Linkedin Profile Link</a>
 # Exploratory-Data-Analysis
 
 Data Analytics Project: Digital Payments Performance & Risk Analytics
