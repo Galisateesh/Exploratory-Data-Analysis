@@ -13,7 +13,9 @@ The objective is to extract meaningful insights related to transaction performan
 ### **📂 Dataset**
 
 The dataset contains transaction-level data for digital payments.
+
 Key attributes include:
+
 Transaction amount
 Merchant name
 Bank details
@@ -83,8 +85,13 @@ Age group analysis (Young, Adult, Old)
 ### **📈 Results & Insights**
 
 Majority of transactions are successful (80% success rate)
+
 Transaction distribution is consistent across months
+
 Equal usage across device types suggests platform accessibility
+
 Major merchants contribute evenly to transaction volume
+
 Banks show similar performance in success/failure rates
+
 Younger and adult users dominate transaction activity
