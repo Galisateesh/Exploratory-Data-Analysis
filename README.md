@@ -91,3 +91,4 @@ The Power BI dashboard provides a comprehensive overview of transaction performa
 4. Major merchants contribute evenly to transaction volume
 5. Banks show similar performance in success/failure rates
 6. Younger and adult users dominate transaction activity
+<a href="C:\Users\Galli.sai kalyan\OneDrive\Desktop\Vamsi\power bi new.pdf">dash board</a>
