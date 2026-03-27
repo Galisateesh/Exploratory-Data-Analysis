@@ -7,6 +7,7 @@ This project presents an end-to-end data analytics workflow focused on analyzing
 The objective is to extract meaningful insights related to transaction performance, customer behavior, and risk patterns.
 
 📂 Dataset
+
 The dataset contains transaction-level data for digital payments.
 Key attributes include:
 Transaction amount
@@ -21,7 +22,9 @@ Python (Pandas, NumPy, Matplotlib, Seaborn)
 MySQL Server (Data storage and SQL queries)
 Power BI (Dashboard and visualization)
 Jupyter Notebook (EDA and data preprocessing)
+
 🔄 Project Steps
+
 1. Data Loading
 Imported dataset using Pandas
 Inspected structure, columns, and data types
@@ -46,11 +49,15 @@ Transaction trends over time
 Success vs Failure rates
 Merchant and bank performance
 Demographic insights
+
 📊 Dashboard
+
 
 The Power BI dashboard provides a comprehensive overview of transaction performance.
 
+
 Key Highlights (from dashboard):
+
 
 Total Transactions: 19,987
 Total Amount: 19.85M
@@ -58,7 +65,9 @@ Average Transaction Value: 993.35
 Success Rate: 80%
 Failure Rate: 20%
 
+
 According to the dashboard on page 1, it includes:
+
 
 Monthly transaction trends
 Merchant-wise transaction distribution (Flipkart, Zomato, Swiggy, IRCTC, Amazon)
@@ -66,7 +75,9 @@ Bank-wise success and failure rates (HDFC, SBI, Axis, ICICI)
 Device usage (Mobile, Laptop, Tablet ~33% each)
 City-wise performance (Bangalore, Delhi, Hyderabad, Mumbai)
 Age group analysis (Young, Adult, Old)
+
 📈 Results & Insights
+
 Majority of transactions are successful (80% success rate)
 Transaction distribution is consistent across months
 Equal usage across device types suggests platform accessibility
