@@ -4,7 +4,7 @@ Data Analytics Project: Digital Payments Performance & Risk Analytics
 
 Data Analytics Project Showing Digital Payments Performance And Risk Analytics Using Python, MySQL, Power Bi
 
-#### **Overview**
+### **Overview**
 
 This project presents an end-to-end data analytics workflow focused on analyzing digital payment transactions. It covers data loading, exploratory data analysis (EDA), data cleaning, SQL-based querying, and interactive dashboard creation using Power BI.
 
