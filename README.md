@@ -10,7 +10,7 @@ This project presents an end-to-end data analytics workflow focused on analyzing
 
 The objective is to extract meaningful insights related to transaction performance, customer behavior, and risk patterns.
 
-📂 Dataset
+### **📂 Dataset**
 
 The dataset contains transaction-level data for digital payments.
 Key attributes include:
@@ -21,13 +21,13 @@ Device type
 Customer demographics (age group, gender)
 Transaction status (Success/Failure)
 Data was initially processed using Python and later stored in MySQL for querying.
-🛠️ Tools & Technologies
+### **🛠️ Tools & Technologies**
 Python (Pandas, NumPy, Matplotlib, Seaborn)
 MySQL Server (Data storage and SQL queries)
 Power BI (Dashboard and visualization)
 Jupyter Notebook (EDA and data preprocessing)
 
-🔄 Project Steps
+### **🔄 Project Steps**
 
 1. Data Loading
 Imported dataset using Pandas
@@ -54,13 +54,13 @@ Success vs Failure rates
 Merchant and bank performance
 Demographic insights
 
-📊 Dashboard
+### **📊 Dashboard**
 
 
 The Power BI dashboard provides a comprehensive overview of transaction performance.
 
 
-Key Highlights (from dashboard):
+### **Key Highlights (from dashboard):**
 
 
 Total Transactions: 19,987
@@ -70,7 +70,7 @@ Success Rate: 80%
 Failure Rate: 20%
 
 
-According to the dashboard on page 1, it includes:
+### **According to the dashboard on page 1, it includes:**
 
 
 Monthly transaction trends
